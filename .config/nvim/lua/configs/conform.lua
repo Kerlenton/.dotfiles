@@ -1,7 +1,8 @@
 local options = {
   formatters_by_ft = {
     lua = { "stylua" },
-    go = { "goimports", "gofmt" }
+    go = { "goimports", "gofmt" },
+    python = { "isort", "black" },
     -- css = { "prettier" },
     -- html = { "prettier" },
   },
