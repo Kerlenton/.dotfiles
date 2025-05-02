@@ -13,5 +13,6 @@ map("n", "n", "nzzzv")
 map("n", "N", "Nzzzv")
 
 map("v", "<leader>p", '"_dp')
+map("v", "<leader>P", '"_dP')
 
 -- map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")
